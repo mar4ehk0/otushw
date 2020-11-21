@@ -10,6 +10,7 @@
             "email": "mar4ehk0@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Otushw\\" : "src/Otushw"
